@@ -1,0 +1,31 @@
+# Site settings
+title: kurtsopinions - personal blog of kurt lojka
+email: kurt.lojka@gmail.com
+description: this is my personal blog that features my opinions on marketing, startups, self-improvement. 
+url: "http://kurtsopinions.com" # the base hostname & protocol for your site
+author: Kurt Lojka
+twitter_username: kurtfresh
+github_username:  freshkurt
+permalink: :title/
+
+# Build settings
+markdown: kramdown
+
+# Default settings
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "pages" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "page"
+
+      
