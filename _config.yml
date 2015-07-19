@@ -3,6 +3,7 @@ title: kurtsopinions - personal blog of kurt lojka
 email: kurt.lojka@gmail.com
 description: this is my personal blog that features my opinions on marketing, startups, self-improvement. 
 url: "http://kurtsopinions.com" # the base hostname & protocol for your site
+baseurls: '/kurtsopinions'
 author: Kurt Lojka
 twitter_username: kurtfresh
 github_username:  freshkurt
