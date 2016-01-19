@@ -3,25 +3,45 @@
   <channel>
     <title>kurtsopinions - personal blog of kurt lojka</title>
     <description>this is my personal blog that features my opinions on marketing, startups, self-improvement.</description>
-    <link>http://kurtsopinions.com/</link>
-    <atom:link href="http://kurtsopinions.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jul 2015 20:17:46 -0400</pubDate>
-    <lastBuildDate>Sat, 18 Jul 2015 20:17:46 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <link>http://freshkurt.github.io//kurtsopinions/</link>
+    <atom:link href="http://freshkurt.github.io//kurtsopinions/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Jan 2016 21:17:53 -0500</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2016 21:17:53 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Hello World!</title>
-        <description>&lt;h2 id=&quot;this-is-my-first-blog-entry&quot;&gt;this is my first blog entry&lt;/h2&gt;
+        <description>&lt;h1 id=&quot;this-is-my-first-blog-entry&quot;&gt;this is my first blog entry&lt;/h1&gt;
 
 &lt;p&gt;hi there,
-this is my first blog entry. I not only want to use this blog to communicate my opinions. It’s also a project to improve my coding skills. I’m generating this blog utilizing &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;.&lt;/p&gt;
+this is my first blog entry. I’m not only writing this blog to voice my opinions. It’s also a project to improve my coding skills. That’s why I’m generating this blog utilizing &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Please let me know your feedback. You can reach me via &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#107;&amp;#117;&amp;#114;&amp;#116;&amp;#046;&amp;#108;&amp;#111;&amp;#106;&amp;#107;&amp;#097;&amp;#064;&amp;#103;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;email&lt;/a&gt; or on &lt;a href=&quot;https://twitter.com/kurtfresh&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 18 Jul 2015 14:50:31 -0400</pubDate>
-        <link>http://kurtsopinions.com/hello-world/</link>
-        <guid isPermaLink="true">http://kurtsopinions.com/hello-world/</guid>
+        <link>http://freshkurt.github.io//kurtsopinions/hello-world/</link>
+        <guid isPermaLink="true">http://freshkurt.github.io//kurtsopinions/hello-world/</guid>
+        
+        
+        <category>opinion</category>
+        
+      </item>
+    
+      <item>
+        <title>Awakening</title>
+        <description>&lt;h1 id=&quot;awakening&quot;&gt;Awakening&lt;/h1&gt;
+
+&lt;p&gt;Hey there,
+it’s been a while since my first blog post. Part of the problem was lack of time but the other part was a technical challenge. I had difficulties pushing my changes to github.&lt;/p&gt;
+
+&lt;p&gt;First of all I had to fight to commit all my changes to my branch. The command &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit&lt;/code&gt; didn’t work as expected as no changes were getting picked up. A short google search later &lt;code class=&quot;highlighter-rouge&quot;&gt;git commit -a&lt;/code&gt; did the trick for me. The tougher problem I faced was pushing my changes to github. I had difficulties to connect to my github account. It turned out that I need to create a personal access token, because of the 2FA I have in place. Unfortunately I didn’t got it to work until recently.&lt;/p&gt;
+
+&lt;p&gt;I now plan to post more regularly. Stay tuned.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Jan 2015 15:50:31 -0500</pubDate>
+        <link>http://freshkurt.github.io//kurtsopinions/awakening/</link>
+        <guid isPermaLink="true">http://freshkurt.github.io//kurtsopinions/awakening/</guid>
         
         
         <category>opinion</category>
