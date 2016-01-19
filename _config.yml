@@ -1,8 +1,14 @@
 # Site settings
 title: kurtsopinions - personal blog of kurt lojka
 email: kurt.lojka@gmail.com
+<<<<<<< HEAD
 description: this is my personal blog that features my opinions on sales, marketing, startups, self-improvement. 
-url: http://freshkurt.github.io/ # the base hostname & protocol for your site
+url: http://freshkurt.github.io/kurtsopinons # the base hostname & protocol for your site
+=======
+description: this is my personal blog that features my opinions on marketing, startups, self-improvement. 
+url: "http://kurtsopinions.com" # the base hostname & protocol for your site
+baseurl: '/kurtsopinions'
+>>>>>>> 784d205fea8ca3ddb36fd7e61e66631e1b3bba4f
 author: Kurt Lojka
 twitter_username: kurtfresh
 github_username:  freshkurt
